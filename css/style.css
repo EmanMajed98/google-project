@@ -1,0 +1,104 @@
+.divheader{
+
+height:50px;
+display: flex;
+align-items: center;
+}
+.butn1{
+margin-left:60px;
+}
+.a2{
+margin-left:30px;
+color: #000;
+text-decoration: none;
+}
+
+.divimg,.divinput,.butn, .par{
+	display: flex;
+    justify-content: center;
+}
+
+img{
+	width:400px;
+	height: 120px;
+	margin-top: 40px;
+
+}
+i{
+color:#000;
+}
+
+.input1{
+width:600px;
+height:60px;
+border:1px solid #dfe1e5;
+border-radius:30px;
+margin:20px;
+display: flex;
+align-items: center;
+
+}
+.span1{
+margin-left:20px;
+}
+.span2{
+margin-left:20px;
+}
+.span3{
+margin-left:500px;
+
+}
+
+
+.abutn2 ,.abutn3 ,.par{
+	margin:10px;
+}
+.abutn2,.abutn3{
+background-color: #f8f9fa;
+width:150px;
+height:50px;
+display:flex;
+align-items:center;
+justify-content: center;
+border-radius:5px;
+}
+
+.pal{
+margin-top:125px;
+background-color:#f8f9fa;
+width: 100%;
+height:50px;
+display: flex;
+align-items: center;
+border-bottom:1px solid #eee;
+
+
+
+}
+.par1{
+	color:#777 ;
+    margin-left:93%;
+}
+ .divbig{
+background-color:#f8f9fa;
+width: 100%;
+height:50px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+ }
+ .divlink1{
+ 	padding-right: 60px;
+ }
+
+ .divlink2{
+ 	padding-left:60px;
+ }
+
+.link21{
+padding: 10px;
+color:#555;
+text-decoration: none;
+}
